@@ -8,4 +8,4 @@ App for Winter Training NSIT.
 ## License
 > © [Shashwat Aggarwal](mailto:shashwat.aggarwal9@gmail.com)<br>
 > © [Shashwat Uttam](mailto:shashwatuttam@gmail.com)<br>
-> Complete License can be found [here](https://github.com/imshashwataggarwal/Travelify/blob/master/LICENCE)
+> Complete License can be found [here](https://github.com/shashwatuttam/Travelify/blob/master/LICENCE)
