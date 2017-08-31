@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\shash\.android\build-cache\13ccb77e728916517447aefa7db6bd6398af0189\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\shash\Desktop\Android\finalimport\Travelify\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-e1856224f07ed06b52d6dfa64a6b626602bfbfd2.jar" />
+    </item>
+    <item
+        jar="C:\Users\shash\.android\build-cache\87791408236bca4d58f3b3657a02e8a21c74dd43\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\shash\Desktop\Android\finalimport\Travelify\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-1d9b24657bdc7d154167fbc8fac7760a2e5d0dd3.jar" />
+    </item>
+    <item
+        jar="C:\Users\shash\.android\build-cache\cad24ac473f1926adbe5ead7ade202a29577b342\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\shash\Desktop\Android\finalimport\Travelify\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-4d49d769dd705a02df5d36d1dc906ec78f3cdd3d.jar" />
+    </item>
+    <item
+        jar="C:\Users\shash\.android\build-cache\187c10ec3755d2cb91c32f204360e95d95520bbf\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\shash\Desktop\Android\finalimport\Travelify\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-89e9fe898aa349f33a14d40e20ef3b19e36cb713.jar" />
+    </item>
+    <item
+        jar="C:\Users\shash\.android\build-cache\49015cec419a70960b47a815113f6319e824b7fd\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\shash\Desktop\Android\finalimport\Travelify\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-513680af9fa433c5993e09a35aed61234142d5d4.jar" />
+    </item>
+    <item
+        jar="C:\Users\shash\.android\build-cache\618aa589d87dcf03b5dccbafe20ebb51cae98f7b\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="C:\Users\shash\Desktop\Android\finalimport\Travelify\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-6dd195fc822672c0177256911473dfea9f0d2d94.jar" />
+    </item>
+    <item
+        jar="C:\Users\shash\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        revision="25.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Users\shash\Desktop\Android\finalimport\Travelify\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\okhttp-3.4.1-9d92693ad6e75a1c1801734733806a9bafa6791a.jar" />
+    </item>
+    <item
+        jar="C:\Users\shash\.android\build-cache\4e0e6151f30b513ee34c92f5c2dee0429390f93b\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\shash\Desktop\Android\finalimport\Travelify\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-d46be54d67245d6ccfed22eafd03bb51c5515c6f.jar" />
+    </item>
+    <item
+        jar="C:\Users\shash\.android\build-cache\d5d4856a2d573e8892290d774207cc0cb52506c1\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\shash\Desktop\Android\finalimport\Travelify\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-8095e25f0aad640c888b6cb4ad35c3823b882df9.jar" />
+    </item>
+    <item
+        jar="C:\Users\shash\.android\build-cache\366f62b234b8596510ce73590b4c9631aee0bf84\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\shash\Desktop\Android\finalimport\Travelify\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-2ba7ec202e1dd7f4db9177513723b0ba9b3b091b.jar" />
+    </item>
+    <item
+        jar="C:\Users\shash\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\shash\Desktop\Android\finalimport\Travelify\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\picasso-2.5.2-9b4fde1aa0aa580cce89a9c4bcc8774b1b36c5d9.jar" />
+    </item>
+    <item
+        jar="C:\Users\shash\.android\build-cache\13b7ffde9de4dcf3e9fbe75175e260965aca4fa4\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="C:\Users\shash\Desktop\Android\finalimport\Travelify\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-f1bbf5d1412b7dddad05136554658dc90dfaf74d.jar" />
+    </item>
+    <item
+        jar="C:\Users\shash\.android\build-cache\b99be6d889f15410d8f97ff4f7105b6bd2bbe52e\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\shash\Desktop\Android\finalimport\Travelify\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-f1b54913992ef63aa6c773df35a43aeb0fcc2064.jar" />
+    </item>
+    <item
+        jar="C:\Users\shash\.android\build-cache\129d56d708b260ca5d3e18091985824cc0edc1dd\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="e3f2bd7d626b065e0960be2404e0af133e7b179b">
+        <dex dex="C:\Users\shash\Desktop\Android\finalimport\Travelify\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-012d8d88794492d38a0bdd6428cd9f2f12320ddd.jar" />
+    </item>
+    <item
+        jar="C:\Users\shash\.android\build-cache\b3a866e3ac94ceeb430a746c67708a4a531f6122\output\jars\libs\androidsvg-1.2.1.jar"
+        revision="25.0.2"
+        sha1="d0cb3453e18fffeb053e9b7f052af3dcec9f75b4">
+        <dex dex="C:\Users\shash\Desktop\Android\finalimport\Travelify\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\androidsvg-1.2.1-1481bd93949199a173722f852aa5cd24a1f1dd21.jar" />
+    </item>
+    <item
+        jar="C:\SDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\shash\Desktop\Android\finalimport\Travelify\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\constraint-layout-solver-1.0.2-158ef3827f8f7c2e92bc78cab1b1602d012b2e2c.jar" />
+    </item>
+    <item
+        jar="C:\Users\shash\.android\build-cache\6849545a662bec69571491e4dccab3964210cc93\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\shash\Desktop\Android\finalimport\Travelify\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-ce8245e7b882a77a0d7b271a6013db6a8476261b.jar" />
+    </item>
+    <item
+        jar="C:\Users\shash\.android\build-cache\4ae0dc6f675a4fe7047b523b05d8723069c87604\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\shash\Desktop\Android\finalimport\Travelify\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-1d8c7b96a45b77140561f4b0e3305920cbdc9bfc.jar" />
+    </item>
+    <item
+        jar="C:\SDK\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\shash\Desktop\Android\finalimport\Travelify\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\support-annotations-25.3.1-f1b5279304ad93e74eafdb4d077288f1a81a86dd.jar" />
+    </item>
+    <item
+        jar="C:\Users\shash\.android\build-cache\52be0ee62f6a4161dd7b0f45330b584002b857c3\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="bb115a110992b254f767f337da233071f6f940b8">
+        <dex dex="C:\Users\shash\Desktop\Android\finalimport\Travelify\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-f15bda7c32cadc79f2a13d6a1581fdc08c3fc1a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\shash\.android\build-cache\016dc71d69000f8f62bf3e0114448fdf1e668cab\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="C:\Users\shash\Desktop\Android\finalimport\Travelify\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-2cc55a6eba7a0291f5e102dca3a82bab1151acd4.jar" />
+    </item>
+    <item
+        jar="C:\Users\shash\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        revision="25.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\shash\Desktop\Android\finalimport\Travelify\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\okio-1.9.0-fdb4aea9acb49b0f7780af6852cb76d18f5a1414.jar" />
+    </item>
+    <item
+        jar="C:\Users\shash\.android\build-cache\327ca7826b0b28391e4672fef14142fb92ef115c\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="e4851331b3944beb6e7f77316a7661f53781da62">
+        <dex dex="C:\Users\shash\Desktop\Android\finalimport\Travelify\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-869d69960a458e2bade03fe1bb8c0ab47f4a491b.jar" />
+    </item>
+    <item
+        jar="C:\Users\shash\.android\build-cache\b11e6a2c1343249042c17537c754fb754dbb1bea\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="C:\Users\shash\Desktop\Android\finalimport\Travelify\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-49c9862cc105edefe43ec76d702a112119c808eb.jar" />
+    </item>
+    <item
+        jar="C:\Users\shash\.android\build-cache\b3a866e3ac94ceeb430a746c67708a4a531f6122\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="88c68c6a96cb202c8974833c319dc4a340f29b7e">
+        <dex dex="C:\Users\shash\Desktop\Android\finalimport\Travelify\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-9fcb6c3067d002dd03ff88af7f08842403d35f00.jar" />
+    </item>
+    <item
+        jar="C:\Users\shash\.android\build-cache\b77bdc70897053b3f90a31f6b58885e425ccec97\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\shash\Desktop\Android\finalimport\Travelify\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-874c1f480dc48bf8cb324313ec24adffa26e4c8c.jar" />
+    </item>
+    <item
+        jar="C:\Users\shash\.android\build-cache\0f829ee717ed1e154230b5bd09bc7a49c4decc9b\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\shash\Desktop\Android\finalimport\Travelify\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-e11747f633651bea8a9d79a8779d2bed05f36268.jar" />
+    </item>
+    <item
+        jar="C:\Users\shash\.android\build-cache\5e4fcf273ab17b6cfcc7ea32cf7aaf7a935e5089\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\shash\Desktop\Android\finalimport\Travelify\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-000bcdce9843dae920141fffab560daa6ca6542f.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/scrollViewMain"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#1a237e"
+        android:orientation="vertical">
+
+        <!-- Card Viewer -->
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="0dp"
+            app:cardBackgroundColor="@color/cardview_light_background">
+
+                <ScrollView
+                    xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical">
+
+                            <android.support.v7.widget.RecyclerView
+                                android:id="@+id/imagelistView"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:divider="@null"
+                                android:orientation="horizontal"/>
+                            <View
+                                android:layout_width="match_parent"
+                                android:layout_height="1px"
+                                android:background="#eeeeee"/>
+                              <RelativeLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_margin="10dp"
+                                    android:padding="15dp">
+                                <RatingBar
+                                    android:id="@+id/ratingRatingBar"
+                                    style="?android:attr/ratingBarStyleSmall"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_alignParentEnd="true"
+                                    android:layout_centerVertical="true"
+                                    android:numStars="5" />
+                                <TextView
+                                    android:id="@+id/titleTextView"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_alignParentStart="true"
+                                    android:layout_toStartOf ="@id/ratingRatingBar"
+                                    android:ellipsize="end"
+                                    android:textAppearance="?android:textAppearanceMedium"
+                                    android:textColor="@color/black"
+                                    android:textSize="25sp"
+                                    android:textStyle="bold"
+                                    tools:text="TITLE" />
+                            </RelativeLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:orientation="vertical">
+                                <View
+                                    android:layout_width="match_parent"
+                                    android:layout_height="1px"
+                                    android:background="#eeeeee"/>
+                                <TextView
+                                    android:id="@+id/addressTextView"
+                                    style="@style/Location_Address_Schedule_Price_Phone"
+                                    android:autoLink="map"
+                                    android:drawableStart="@drawable/address"
+                                    android:paddingEnd="10dp"
+                                    android:paddingStart="20dp"
+                                    android:paddingTop="10dp"/>
+
+                                <TextView
+                                    android:id="@+id/scheduleTextView"
+                                    style="@style/Location_Address_Schedule_Price_Phone"
+                                    android:drawableStart="@drawable/schedule"
+                                    android:paddingEnd="10dp"
+                                    android:paddingStart="20dp"/>
+
+                                <TextView
+                                    android:id="@+id/priceTextView"
+                                    style="@style/Location_Address_Schedule_Price_Phone"
+                                    android:drawableStart="@drawable/price"
+                                    android:paddingEnd="10dp"
+                                    android:paddingStart="20dp"/>
+
+                                <TextView
+                                    android:id="@+id/phoneTextView"
+                                    style="@style/Location_Address_Schedule_Price_Phone"
+                                    android:autoLink="phone"
+                                    android:drawableStart="@drawable/phone"
+                                    android:paddingEnd="10dp"
+                                    android:paddingStart="20dp"/>
+
+                                <TextView
+                                    android:id="@+id/websiteTextView"
+                                    style="@style/Location_Address_Schedule_Price_Phone"
+                                    android:autoLink="phone"
+                                    android:drawableStart="@drawable/ic_language_black_24dp"
+                                    android:paddingEnd="10dp"
+                                    android:paddingStart="20dp"/>
+
+                                </LinearLayout>
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:orientation="vertical">
+                                <View
+                                    android:layout_width="match_parent"
+                                    android:layout_height="1px"
+                                    android:background="#eeeeee"/>
+                            <TextView
+                                android:id="@+id/TopTextView"
+                                style="@style/Location_Address_Schedule_Price_Phone"
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:background="@color/cardview_light_background"
+                                android:divider="#9e9e9e"
+                                android:padding ="10dp"
+                                android:text="Top Reviews"
+                                android:textSize="20sp"/>
+                                <View
+                                    android:layout_width="match_parent"
+                                    android:layout_height="1px"
+                                    android:background="#eeeeee"/>
+                            <android.support.v7.widget.RecyclerView
+                                android:id="@+id/reviewlistView"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:background="#eeeeee"
+                                android:divider="#9e9e9e"
+                                android:orientation="vertical"
+                                android:padding="10dp" />
+                            </LinearLayout>
+
+                    </LinearLayout>
+                </ScrollView>
+             </android.support.v7.widget.CardView>
+        </LinearLayout>
+
+    <!-- Empty view is only visible when the list has no items. -->
+    <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/empty_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+    android:adjustViewBounds="true"
+    android:contentDescription="@string/image_view_place"
+        android:scaleType="centerCrop"
+        android:src="@drawable/nores" />
+
+    <!-- Loading indicator for user feedback -->
+    <ProgressBar
+        android:id="@+id/loading_indicator"
+        style="@style/Widget.AppCompat.ProgressBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:adjustViewBounds="true"/>
+</RelativeLayout>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/googlemaps"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="20dp"
+        android:background="@color/common_google_signin_btn_text_dark_default"
+        android:scaleType="fitCenter"
+        android:src="@drawable/map"
+        />
+</merge>

@@ -1,0 +1,53 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Travelify</string>
+    <string name="MYapp_name">Explore Attractions Nearby You &#8230;</string>
+    <string name="title_activity_detail">Details</string>
+
+    <string name="no_locations">No Attractions Nearby.</string>
+    <string name="no_internet_connection">No Internet Connection.</string>
+    <string name="image_view_place">Place Image</string>
+    <string name="open_google_maps">Open in Google Maps</string>
+
+    <!-- =============== Tab Names =================== -->
+    <string name="category_sightseeing">Sights</string>
+    <string name="category_food">Foods</string>
+    <string name="category_attractions">Shops</string>
+    <string name="category_hospitals">Hospitals</string>
+    <string name="category_temple">Temples</string>
+    <string name="category_park">Parks</string>
+    <string name="category_museum">Museums</string>
+    <string name="category_movie">Movie Theaters</string>
+    <string name="category_zoo">Zoo</string>
+    <string name="category_airport">Airports</string>
+    <string name="category_train">Railway Stations</string>
+    <string name="category_taxi">Taxi Stands</string>
+    <string name="category_atm">ATMs</string>
+
+
+    <string name="open">Open Now</string>
+    <string name="closed">Closed Now</string>
+
+    <string name="open_activity">Open Autocomplete Activity</string>
+    <string name="selected_place">Last Selected Place:</string>
+
+    <string name="place_details">
+        <![CDATA[
+        <b>%1$s</b>
+        <br/>
+        <i>Place Id: %2$s</i>
+        <br/>
+        Address: %3$s
+        <br/>
+        Phone: %4$s
+        <br/>
+        Website: %5$s
+    ]]>
+    </string>
+
+    <string name="favorites">Favorites</string>
+    <string name="refresh">Refresh</string>
+    <string name="empty_description">No description available.</string>
+    <string name="sample_state">Delhi</string>
+    <string name="sample_string">Lotus Temple is one of the finest crafted structures is in Delhi.</string>
+</resources>
